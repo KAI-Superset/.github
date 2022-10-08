@@ -1,4 +1,4 @@
-![Superset logo](./media/superset-logo-cropped.png)
+![Superset logo](/profile/media/superset-logo-cropped.png)
 
 # KAI Superset
 
