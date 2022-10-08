@@ -1,3 +1,5 @@
+![Superset logo](./media/superset-logo-cropped.png)
+
 # KAI Superset
 
 KAI Superset is a not-for-profit unofficial superset organization for [KNRTU-KAI](https://kai.ru) made to improve overall efficiency of KAI students with several projects like:
