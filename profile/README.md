@@ -1,13 +1,20 @@
-![Superset logo](/profile/media/superset-logo-cropped.png)
+<p align="center">
+  <img src="/profile/media/superset-logo-cropped.png" alt="Логотип «Суперсет»" height="110px" />
+</p>
 
-# KAI Superset
+# О проекте
 
-KAI Superset is a not-for-profit unofficial superset organization for [KNRTU-KAI](https://kai.ru) made to improve overall efficiency of KAI students with several projects like:
-- Discord bot
-- API wrapper
+«Суперсет» КАИ - это проект, задачей которого является показать таланты студентов и создать собственную эко-систему КАИ под управлением команды студентов. Участие в нём - отличный способ попробовать себя в программировании/показать свои способности. Задумка «Суперсета» приносит пользу как КАИ, так и участнику и обычному студенту. КАИ получает новые технологии, новые идеи, и, что самое главное, всё в виде открытого исходного кода. Участник получает опыт работы в команде, опыт работы над проектами, опыт работы с новыми технологиями. Обычный студент получает полезный набор инструментов для улучшения эффективности обучения в КАИ.
 
-## Maintaining
+## Наши планы
 
-The project overall is being maintained by the same KAI students. Project is all about *help* for fellow ambitious software engineers studying at KAI.
+- [ ] Телеграм бот
+- [x] Оболочка API для Node.js
+- [ ] Добавление базы данных для дискорд бота
+- [x] Создание [вебсайта «Суперсета»](https://supersetkai.ru/)
 
-> It is not meant to be used as the replacement to [https://kai.ru](https://kai.ru) or its subdomains. Please refer to this project as the power broker
+## Помощь
+
+Проект существует за счёт помощи других студентов. Если вы желаете помочь в продвижении проекта, просим вас обратиться к [этой странице](https://supersetkai.ru/developers/contribute)
+
+> Проект не является заменой [вебсайта КНИТУ-КАИ](https://kai.ru)! Этот проект - надстройка для КАИ.
