@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/profile/media/superset-logo-cropped.png" alt="Логотип «Суперсет»" height="110px" />
+  <img src="media/superset-logo-cropped.png" alt="Логотип «Суперсет»" height="110px" />
 </p>
 
 # О проекте
